@@ -14,10 +14,10 @@ ul {
 
 .logo {
     color:  #4D5AE5;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 0.8;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase
 }
@@ -43,7 +43,10 @@ ul {
     color: #404BBF;
 }
 
-.address {
+.nav-link:focus {
+    color: #404BBF;
+}
+.link-add {
     color: #434455;
     font-size: 16px;
     font-style: normal;
@@ -52,7 +55,7 @@ ul {
     letter-spacing: 0.32px;
 }
 
-.address:hover {
+.link-add:hover {
     color: #404BBF;
 }
 
@@ -130,7 +133,7 @@ ul {
 }
 
 .our-team-box {
-background-color: #fff;
+background-color: #ffffff;
 text-align: center;
 }
 
