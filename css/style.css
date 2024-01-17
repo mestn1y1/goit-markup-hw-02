@@ -44,7 +44,7 @@ ul {
 }
 
 .nav-link:focus {
-    color: #404BBF;
+    color: #404bbf;
 }
 .link-add {
     color: #434455;
@@ -59,7 +59,7 @@ ul {
     color: #404BBF;
 }
 
-.address:focus {
+.link-add:focus {
     color: #404BBF;
 }
 
