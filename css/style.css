@@ -46,10 +46,13 @@ ul {
 .nav-link:focus {
     color: #404bbf;
 }
+.address {
+    font-style: normal;
+}
+
 .link-add {
     color: #434455;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
